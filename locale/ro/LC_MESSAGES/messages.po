@@ -191,7 +191,7 @@ msgstr ""
 
 #: webpay/pay/templates/pay/simulate.html:20 webpay/pin/templates/pin/pin_form.html:41 webpay/pin/templates/pin/pin_was_locked.html:16
 msgid "Continue"
-msgstr ""
+msgstr "Continuă"
 
 #: webpay/pay/templates/pay/wait-to-start.html:11
 msgid "Waiting for payment to complete&hellip;"
@@ -203,7 +203,7 @@ msgstr ""
 
 #: webpay/pin/forms.py:93
 msgid "Wrong pin"
-msgstr ""
+msgstr "Cod pin greșit"
 
 #: webpay/pin/forms.py:104 webpay/pin/forms.py:126
 msgid "Pins do not match."
@@ -229,7 +229,7 @@ msgstr ""
 #.                  password that most sites have.
 #: webpay/pin/templates/pin/pin_form.html:26 webpay/pin/templates/pin/reset_start.html:12
 msgid "Forgot your pin?"
-msgstr ""
+msgstr "Ați uitat codul pin?"
 
 #: webpay/pin/templates/pin/pin_is_locked.html:13
 msgid "You entered the wrong pin too many times. Your account is locked. Please try your purchase again in 5 minutes."
